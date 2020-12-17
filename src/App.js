@@ -1,4 +1,5 @@
 // import logo from "./logo.svg";
+import React, { useState, useEffect } from "react";
 import dad from "./dad.png";
 import "./App.css";
 import Joke from "./components/jokes";
