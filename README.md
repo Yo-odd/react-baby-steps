@@ -1,7 +1,7 @@
 # Dad-jokes
 The react project to fetch dad jokes (as if  2020 wasn't enough)
 <hr>
-####  Tech
+ <b>Tech</b>
 -React JS
 <p float="left">
  <a href="https://www.npmjs.com/package/react">
@@ -9,7 +9,7 @@ The react project to fetch dad jokes (as if  2020 wasn't enough)
  </a>
 </p>
 <hr>
-####  Dependencies
+ <b>Dependencies</b>
 
 -Material-UI 
 <p float="left">
